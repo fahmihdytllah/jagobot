@@ -73,8 +73,8 @@ const checkToken = async token => {
   if (findToken.data.status) {
     console.log('\x1b[32m[✓]\x1b[0m', findToken.data.msg, 'kadaluwarsa pada', findToken.data.data.expiredAt);
     bot.key = token;
-    await func.postDataBot();
     await func.setDataBot(findToken.data.data);
+    await func.postDataBot();
     runBot();
   } else {
     console.log('\x1b[31m[!]\x1b[0m', findToken.data.msg);
