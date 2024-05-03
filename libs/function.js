@@ -8,7 +8,6 @@ const util = require('./utils');
 
 let pathDataDomainJson = path.join(__dirname, '../json/dataUrl.json');
 let pathConfig = path.join(__dirname, '../config.json');
-let currentPid = process.pid;
 
 // module function
 function ask(question) {
@@ -168,7 +167,8 @@ const clickAds = async (page, selector) => {
 
 // cron job
 cron.schedule('*/2 * * * *', () => {
-  pidusage(currentPid, async (err, stats) => {
+  bot.uptime = util.formatUptime(process.uptime());
+  pidusage(process.pid, async (err, stats) => {
     if (err) {
       console.error('Error getting process usage:', err.message);
     } else {
