@@ -26,8 +26,6 @@ function ask(question) {
 
 const postDataBot = async () => {
   try {
-    const getDataServer = await axios.get('https://ipapi.co/json/');
-    global.bot.ip = getDataServer.data.ip;
     const postDataBot = await axios.post('https://bot.jagocode.my.id/api/saveDataBot', global.bot);
     global.bot = postDataBot.data.data;
     console.log('\x1b[32m[✓]\x1b[0m Data bot berhasil di kirim');
@@ -40,12 +38,20 @@ const postDataBot = async () => {
 
 const setDataBot = async data => {
   try {
+    if (!global?.bot?.ip) {
+      const getDataServer = await axios.get('https://ipapi.co/json/');
+      global.bot.ip = getDataServer.data.ip;
+      const getDataBot = await axios.get('https://bot.jagocode.my.id/api/checkDataBot?ip=' + bot.ip);
+      global.bot = getDataBot.data.data;
+    }
+
     let dataBot;
     if (!data?.key) {
       dataBot = await axios.get('https://bot.jagocode.my.id/api/checkToken?token=' + key.key);
     } else {
       dataBot = data;
     }
+
     global.key = dataBot;
     fs.writeFileSync(pathConfig, JSON.stringify({ token: dataBot.key }, null, 2));
     await updateListDomain(dataBot);
@@ -166,7 +172,7 @@ const clickAds = async (page, selector) => {
 // }
 
 // cron job
-cron.schedule('*/2 * * * *', () => {
+cron.schedule('*/1 * * * *', () => {
   bot.uptime = util.formatUptime(process.uptime());
   pidusage(process.pid, async (err, stats) => {
     if (err) {
