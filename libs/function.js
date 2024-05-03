@@ -29,7 +29,7 @@ const postDataBot = async () => {
   try {
     const getDataServer = await axios.get('https://ipapi.co/json/');
     global.bot.ip = getDataServer.data.ip;
-    const postDataBot = await axios.post('http://localhost:3000/api/saveDataBot', global.bot);
+    const postDataBot = await axios.post('https://bot.jagocode.my.id/api/saveDataBot', global.bot);
     global.bot = postDataBot.data.data;
     console.log('\x1b[32m[✓]\x1b[0m Data bot berhasil di kirim');
     return true;
@@ -43,7 +43,7 @@ const setDataBot = async data => {
   try {
     let dataBot;
     if (!data?.key) {
-      dataBot = await axios.get('http://localhost:3000/api/checkToken?token=' + key.key);
+      dataBot = await axios.get('https://bot.jagocode.my.id/api/checkToken?token=' + key.key);
     } else {
       dataBot = data;
     }
