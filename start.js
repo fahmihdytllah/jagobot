@@ -53,7 +53,7 @@ const runBot = async () => {
   console.log('   ---------------------------------------------');
   console.log('');
   console.log('');
-  // runTasks();
+  runTasks();
 };
 
 const banner = () => {
