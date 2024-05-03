@@ -5,7 +5,7 @@ const path = require('path');
 const util = require('./utils');
 const func = require('./function');
 
-let listDomain = JSON.parse(fs.readFileSync(path.join(__dirname, '../json/dataUrlArticle.json'), 'utf8'));
+let listDomain = JSON.parse(fs.readFileSync(path.join(__dirname, '../json/dataUrl.json'), 'utf8'));
 let listProxy = JSON.parse(fs.readFileSync(path.join(__dirname, '../json/dataProxy.json'), 'utf8'));
 
 module.exports = async name => {
