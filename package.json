@@ -1,0 +1,22 @@
+{
+  "name": "jagobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.5.1",
+    "readline": "latest",
+    "node-cron": "latest",
+    "pidusage": "latest",
+    "puppeteer": "^21.3.8",
+    "random-useragent": "^0.5.0"
+  }
+}
