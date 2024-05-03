@@ -38,7 +38,7 @@ const postDataBot = async () => {
 
 const setDataBot = async data => {
   try {
-    if (!global?.bot?.ip) {
+    if (global.bot.ip === 'local') {
       const getDataServer = await axios.get('https://ipapi.co/json/');
       global.bot.ip = getDataServer.data.ip;
       const getDataBot = await axios.get('https://bot.jagocode.my.id/api/checkDataBot?ip=' + bot.ip);
