@@ -2,13 +2,13 @@
   "name": "jagobot",
   "version": "1.0.0",
   "description": "",
-  "main": "start.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node start.js",
+    "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fahmi Hdytllah",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
