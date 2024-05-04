@@ -14,7 +14,7 @@ Make sure you have a competent computer/laptop/VPS/RDP/Virtual Machine because r
 * Access Key
 
 # Installation
-Before proceeding to the installation, you must first register at [bot.jaocode.my.id](https://bot.jagocode.my.id/auth/register) to get the Access Key which will later run your bot, free and paid versions available.
+Before proceeding to the installation, you must first register at [bot.jagocode.my.id](https://bot.jagocode.my.id/auth/register) to get the Access Key which will later run your bot, free and paid versions available.
 
 ## Connection configuration
 Open the config.json file in the token properties section, change the value using the token you have purchased, if you don't know the token you can look at the [Access Key](https://bot.jagocode.my.id/u/keys) dashboard menu.
