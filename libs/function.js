@@ -46,8 +46,9 @@ const setDataBot = async data => {
     }
 
     let dataBot;
-    if (!data?.key) {
-      dataBot = await axios.get('https://bot.jagocode.my.id/api/checkToken?token=' + key.key);
+    if (!data?.key && key?.key) {
+      const updateToken =await axios.get('https://bot.jagocode.my.id/api/checkToken?token=' + key.key);
+      dataBot = updateToken.data.data;
     } else {
       dataBot = data;
     }
