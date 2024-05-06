@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/cy3ShSp/1714800784906.jpg" alt="empas project" width="500" />
+<img src="https://i.ibb.co/zHnDHCK/1714971572689.jpg" alt="Preview" width="500" />
+<img src="https://i.ibb.co/XWjRZG4/1714971626509.jpg" alt="Preview Bot" width="500" />
 
 # **Jago Bot**
 
@@ -44,6 +45,14 @@ Download [NodeJs](https://nodejs.org/en/download) directly from the official sit
 $ git clone https://github.com/fahmihdytllah/jagobot
 $ cd jagobot
 $ node bot.js
+```
+
+# Quick install
+Just run the following command the bot will install and also run the bot in the background, but you have to make sure you have replaced a valid token in the config.json file.
+
+* Note: This script only integrates with Linux operations
+```cmd
+$ bash install.sh
 ```
 
 # Run in the background
