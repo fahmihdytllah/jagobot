@@ -16,7 +16,7 @@
     "node-cron": "latest",
     "pidusage": "latest",
     "useragent": "latest",
-    "puppeteer": "latest",
+    "puppeteer": "^21.3.8",
     "random-useragent": "latest",
     "readline": "latest"
   }
