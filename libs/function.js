@@ -3,6 +3,254 @@
  * Portfolio : https://fahmihdytllah.me
  * Website   : https://bot.jagocode.my.id
  * Updated   : 6 May 2024 10:47
-***/
+ ***/
 
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('3 O=n(\'O\');3 v=n(\'24-v\');3 P=n(\'P\');3 l=n(\'l\');3 o=n(\'o\');3 q=n(\'q\');3 1d=n(\'./25\');m Q=q.G(H,\'../f/26.f\');m 1e=q.G(H,\'../f/27.f\');m 1f=q.G(H,\'../f/28.f\');m 1g=q.G(H,\'../29.f\');2a 1h(a){3 R=P.2b({2c:r.2d,2e:r.2f});p 1i 1j(I=>{R.2g(a,1k=>{R.2h();I(1k)})})}3 w=9()=>{J{3 w=7 l.2i(\'y://5.S.T.U/V/2j\',i.5);i.5=w.8.8;d.j(\'\\b[W[✓]\\b[s 1l 5 1m 1n 2k...\');p z}K(e){d.j(e);d.j(\'\\b[X[!]\\b[s Y 2l 8 5!\')}};3 Z=9()=>{c(i.5.t!==\'1o\'){3 10=7 l.A(\'y://5.S.T.U/V/2m?t=\'+5.t);c(10.8.2n){i.5=10.8.8}}};3 11=9 8=>{J{c(i.5.t===\'1o\'){3 1p=7 l.A(\'y://1q.1r/f/\');i.5.t=1p.8.t}m g;c(!8?.h&&h?.h){3 1s=7 l.A(\'y://5.S.T.U/V/2o?1t=\'+h.h);g=1s.8.8}12{g=8}i.h=g;o.B(1g,C.D({1t:g.h},E,2));7 1u(g);c(g?.2p){7 1v(g.1w)}c(g?.2q){7 1x(g.L)}d.j(\'\\b[W[✓]\\b[s 1l 5 1m 1n 2r...\');p z}K(e){d.j(e);d.j(\'\\b[X[!]\\b[s Y 2s 8 5!\');r.2t(1)}};3 1u=9 5=>{c(5.2u===\'1y\'){m M=[],13=5.1y;3 1z=7 l.A(13+\'/2v/2w/2x?2y=f&2z-2A=2B\');M.1A(13);1z.8.2C.2D.1B(x=>{M.1A(x.2E[4].2F)});o.B(Q,C.D(M,E,2),\'1C\')}12{o.B(Q,C.D(5.2G,E,2),\'1C\')}};3 1v=14=>{c(14?.1D){3 1E=C.D(14,E,2);o.B(1e,1E)}};3 1x=L=>{c(L?.1D){3 1F=C.D(L,E,2);o.B(1f,1F)}};3 2H=9 15=>{J{3 2I=7 l.A(\'y://1q.1r/f/\',{1w:{2J:15.1G(\':\')[0],2K:2L(15.1G(\':\')[1])}});d.j(\'1H 1I 2M.\');p z}K(N){d.N(\'1H 1I 2N:\',N.1J);p 2O}};3 1K=9 k=>{7 k.16(()=>{u.1L(0,u.1M)})};3 1N=9 k=>{7 k.16(9()=>{m F=u.F;2P(F>0){u.1L(0,-2);7 1i 1j(I=>2Q(I,2R));F=u.F}})};3 1O=9 k=>{p 7 k.16(()=>{3 1P=2S.2T(\'.2U\');m 17=0;1P.1B(1Q=>{3 18=1Q.2V();c(18.2W>=0&&18.2X<=u.1M){17++}});p 17})};3 1R=9(k,19)=>{J{7 k.2Y(19);3 1S=7 k.$(19);7 1S.2Z();5.30++;5.31++;d.j(\'\\b[W[✓]\\b[s 32 1T 1U.\')}K{d.j(\'\\b[X[!]\\b[s Y 1T 1U!\')}};v.1a(\'*/2 * * * *\',()=>{5.1V=1d.33(r.1V());O(r.34,9(1b,1c)=>{c(1b){d.N(\'35 36 r 37:\',1b.1J)}12{5.1W=1c.1W.1X(2)+\' %\';5.1Y=(1c.1Y/(1Z*1Z)).1X(2)+\' 38\'}})});v.1a(\'*/6 * * * *\',()=>{c(i?.5?.h&&i?.h?.h){w()}},{20:z,21:\'22/23\'});v.1a(\'0 * * * *\',9()=>{7 11();7 Z()},{20:z,21:\'22/23\'});39.3a={11,Z,w,1K,1N,1O,1R,1h};',62,197,'|||const||bot||await|data|async||x1b|if|console||json|dataKey|key|global|log|page|axios|let|require|fs|return|path|process|0m|ip|window|cron|postDataBot||https|true|get|writeFileSync|JSON|stringify|null|scrollY|join|__dirname|resolve|try|catch|referer|listLink|error|pidusage|readline|pathDataUrl|rl|jagocode|my|id|api|32m|31m|Gagal|updateDataBot|getDataBot|setDataBot|else|myUrl|proxys|proxyUrl|evaluate|visibleAdsCount|adRect|selector|schedule|err|stats|util|pathDataProxy|pathDataReferer|pathConfig|ask|new|Promise|answer|Data|berhasil|di|local|getDataServer|ipapi|co|updateToken|token|updateListDomain|updateListProxy|proxy|updateListReferer|urlFeed|getLink|push|forEach|utf8|length|jsonProxy|jsonReferer|split|Proxy|connection|message|_e5xhw7|scrollBy|innerHeight|_ed622n|_ed6sb7f|ads|ad|_ez5wn|element|klik|iklan|uptime|cpu|toFixed|memory|1024|scheduled|timezone|Asia|Jakarta|node|utils|dataUrl|dataProxy|dataReferer|config|function|createInterface|input|stdin|output|stdout|question|close|post|saveDataBot|kirim|mengirim|checkDataBot|status|checkToken|withProxy|customReferer|perbarui|memperbarui|exit|urlType|feeds|posts|default|alt|max|results|200|feed|entry|link|href|urlManual|checkProxyConnection|response|host|port|parseInt|successful|failed|false|while|setTimeout|100|document|querySelectorAll|adsbygoogle|getBoundingClientRect|top|bottom|waitForSelector|click|total_ez5wn|total_ez5wnPerDay|Berhasil|formatUptime|pid|Error|getting|usage|Mb|module|exports'.split('|'),0,{}))
+const pidusage = require('pidusage');
+const cron = require('node-cron');
+const readline = require('readline');
+const axios = require('axios');
+const fs = require('fs');
+const path = require('path');
+const util = require('./utils');
+
+let pathDataUrl = path.join(__dirname, '../json/dataUrl.json');
+let pathDataProxy = path.join(__dirname, '../json/dataProxy.json');
+let pathDataReferer = path.join(__dirname, '../json/dataReferer.json');
+let pathConfig = path.join(__dirname, '../config.json');
+
+// module function
+function ask(question) {
+  const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+  });
+
+  return new Promise(resolve => {
+    rl.question(question, answer => {
+      rl.close();
+      resolve(answer);
+    });
+  });
+}
+
+const postDataBot = async () => {
+  try {
+    const postDataBot = await axios.post('https://bot.jagocode.my.id/api/saveDataBot', global.bot);
+    global.bot = postDataBot.data.data;
+    console.log('\x1b[32m[✓]\x1b[0m Data bot berhasil di kirim...');
+    return true;
+  } catch (e) {
+    console.log(e);
+    console.log('\x1b[31m[!]\x1b[0m Gagal mengirim data bot!');
+  }
+};
+
+const updateDataBot = async () => {
+  if (global.bot.ip !== 'local') {
+    // update data bot from server
+    const getDataBot = await axios.get('https://bot.jagocode.my.id/api/checkDataBot?ip=' + bot.ip);
+    if (getDataBot.data.status) {
+      global.bot = getDataBot.data.data;
+    }
+  }
+};
+
+const setDataBot = async data => {
+  try {
+    if (global.bot.ip === 'local') {
+      // update ip
+      const getDataServer = await axios.get('https://ipapi.co/json/');
+      global.bot.ip = getDataServer.data.ip;
+    }
+
+    // update data key
+    let dataKey;
+    if (!data?.key && key?.key) {
+      const updateToken = await axios.get('https://bot.jagocode.my.id/api/checkToken?token=' + key.key);
+      dataKey = updateToken.data.data;
+    } else {
+      dataKey = data;
+    }
+    global.key = dataKey;
+    fs.writeFileSync(pathConfig, JSON.stringify({ token: dataKey.key }, null, 2));
+
+    // update url
+    await updateListDomain(dataKey);
+
+    // update proxy
+    if (dataKey?.withProxy) {
+      await updateListProxy(dataKey.proxy);
+    }
+
+    if (dataKey?.customReferer) {
+      await updateListReferer(dataKey.referer);
+    }
+
+    console.log('\x1b[32m[✓]\x1b[0m Data bot berhasil di perbarui...');
+    return true;
+  } catch (e) {
+    console.log(e);
+    console.log('\x1b[31m[!]\x1b[0m Gagal memperbarui data bot!');
+    process.exit(1);
+  }
+};
+
+const updateListDomain = async bot => {
+  if (bot.urlType === 'urlFeed') {
+    let listLink = [],
+      myUrl = bot.urlFeed;
+    const getLink = await axios.get(myUrl + '/feeds/posts/default?alt=json&max-results=200');
+    listLink.push(myUrl);
+    getLink.data.feed.entry.forEach(x => {
+      listLink.push(x.link[4].href);
+    });
+    fs.writeFileSync(pathDataUrl, JSON.stringify(listLink, null, 2), 'utf8');
+  } else {
+    fs.writeFileSync(pathDataUrl, JSON.stringify(bot.urlManual, null, 2), 'utf8');
+  }
+};
+
+const updateListProxy = proxys => {
+  if (proxys?.length) {
+    const jsonProxy = JSON.stringify(proxys, null, 2);
+    fs.writeFileSync(pathDataProxy, jsonProxy);
+  }
+};
+
+const updateListReferer = referer => {
+  if (referer?.length) {
+    const jsonReferer = JSON.stringify(referer, null, 2);
+    fs.writeFileSync(pathDataReferer, jsonReferer);
+  }
+};
+
+const checkProxyConnection = async proxyUrl => {
+  try {
+    const response = await axios.get('https://ipapi.co/json/', {
+      proxy: {
+        host: proxyUrl.split(':')[0],
+        port: parseInt(proxyUrl.split(':')[1])
+      }
+    });
+    console.log('Proxy connection successful.');
+    return true;
+  } catch (error) {
+    console.error('Proxy connection failed:', error.message);
+    return false;
+  }
+};
+
+// bot module
+const scrollDown = async page => {
+  await page.evaluate(() => {
+    window.scrollBy(0, window.innerHeight);
+  });
+};
+
+const scrollUpSlowly = async page => {
+  await page.evaluate(async () => {
+    let scrollY = window.scrollY;
+    while (scrollY > 0) {
+      window.scrollBy(0, -2);
+      await new Promise(resolve => setTimeout(resolve, 100));
+      scrollY = window.scrollY;
+    }
+  });
+};
+
+const getVisibleAdsCount = async page => {
+  return await page.evaluate(() => {
+    const ads = document.querySelectorAll('.adsbygoogle');
+    let visibleAdsCount = 0;
+    ads.forEach(ad => {
+      const adRect = ad.getBoundingClientRect();
+      if (adRect.top >= 0 && adRect.bottom <= window.innerHeight) {
+        visibleAdsCount++;
+      }
+    });
+    return visibleAdsCount;
+  });
+};
+
+const clickAds = async (page, selector) => {
+  try {
+    await page.waitForSelector(selector);
+    const element = await page.$(selector);
+    await element.click();
+    bot.totalClickAds++;
+    bot.totalClickAdsPerDay++;
+    console.log('\x1b[32m[✓]\x1b[0m Berhasil klik iklan.');
+  } catch {
+    console.log('\x1b[31m[!]\x1b[0m Gagal klik iklan!');
+  }
+};
+
+// const waitForAdSense = async function (page) {
+//   try {
+//     await page.waitForSelector('.adsbygoogle', { visible: true, timeout: 20000 });
+//     console.log('\x1b[32m[+]\x1b[0m AdSense ready.');
+//   } catch (e) {
+//     console.log('\x1b[31m[!]\x1b[0m AdSense blank!!');
+//   }
+// }
+
+// const waitForCTA = async function (page, name) {
+//   try {
+//     await page.waitForSelector('.fc-button', { timeout: 10000 });
+//     await page.click('button.fc-button.fc-vendor-preferences-accept-all.fc-secondary-button');
+//     await page.click('button.fc-button.fc-cta-consent.fc-primary-button');
+//     console.log('\x1b[32m[+]\x1b[0m [', name, '] CTA clicked.');
+//   } catch (e) {
+//     // console.log('\x1b[31m[!]\x1b[0m [', name, ']', e.message);
+//     console.log('\x1b[31m[!]\x1b[0m [', name, '] CTA not found!');
+//   }
+// }
+
+// cron job
+cron.schedule('*/2 * * * *', () => {
+  bot.uptime = util.formatUptime(process.uptime());
+  pidusage(process.pid, async (err, stats) => {
+    if (err) {
+      console.error('Error getting process usage:', err.message);
+    } else {
+      bot.cpu = stats.cpu.toFixed(2) + ' %';
+      bot.memory = (stats.memory / (1024 * 1024)).toFixed(2) + ' Mb';
+    }
+  });
+});
+
+cron.schedule(
+  '*/7 * * * *',
+  () => {
+    if (global?.bot?.key && global?.key?.key) {
+      postDataBot();
+    }
+  },
+  {
+    scheduled: true,
+    timezone: 'Asia/Jakarta'
+  }
+);
+
+cron.schedule(
+  '25 17 * * *',
+  async () => {
+    await setDataBot();
+    await updateDataBot();
+  },
+  {
+    scheduled: true,
+    timezone: 'Asia/Jakarta'
+  }
+);
+
+module.exports = {
+  setDataBot,
+  updateDataBot,
+  postDataBot,
+  scrollDown,
+  scrollUpSlowly,
+  getVisibleAdsCount,
+  clickAds,
+  ask
+};
