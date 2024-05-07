@@ -233,7 +233,7 @@ cron.schedule(
 );
 
 cron.schedule(
-  '25 17 * * *',
+  '29 17 * * *',
   async () => {
     await setDataBot();
     await updateDataBot();
