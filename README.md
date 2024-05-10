@@ -50,6 +50,9 @@ $ npm install
 $ node bot.js
 ```
 
+# Video Installation
+[![Jago Bot Installation](https://img.youtube.com/vi/IVdlcUObKuA/0.jpg)](https://www.youtube.com/watch?v=IVdlcUObKuA)
+
 # Quick install
 Just run the following command the bot will install and also run the bot in the background, but you have to make sure you have replaced a valid token in the config.json file.
 
