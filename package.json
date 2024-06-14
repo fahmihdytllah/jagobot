@@ -14,7 +14,6 @@
     "@types/node": "^18.0.6",
     "axios": "latest",
     "node-cron": "latest",
-    "pidusage": "latest",
     "useragent": "latest",
     "puppeteer": "^21.3.8",
     "readline": "latest"
