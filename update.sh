@@ -9,6 +9,7 @@ command_exists() {
 
 if command_exists git; then
   echo "[✓] Updating to the latest version..."
+  git stash
   git pull origin main
   
   echo "[✓] Updating dependencies..."
