@@ -1,7 +1,7 @@
 node_modules/
 
-json/dataUrl.json
-json/dataProxy.json
+./json/dataUrl.json
+./json/dataProxy.json
 
-config.json
+./config.json
 package-lock.json
