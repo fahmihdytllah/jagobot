@@ -1,5 +1,4 @@
-node_modules
-json
-
+json/dataUrl.json
+json/dataProxy.json
 config.json
 package-lock.json
