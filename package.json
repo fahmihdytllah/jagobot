@@ -1,6 +1,6 @@
 {
   "name": "jagobot",
-  "version": "1.4.0",
+  "version": "1.6.5",
   "description": "Organic visitors for adsense",
   "main": "bot.js",
   "scripts": {
@@ -14,8 +14,9 @@
     "@types/node": "^18.0.6",
     "axios": "latest",
     "node-cron": "latest",
-    "useragent": "latest",
     "puppeteer": "latest",
-    "readline": "latest"
+    "readline": "latest",
+    "socket.io-client": "latest",
+    "useragent": "latest"
   }
 }

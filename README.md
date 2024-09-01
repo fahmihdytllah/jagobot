@@ -1,5 +1,6 @@
-<img src="https://i.ibb.co/zHnDHCK/1714971572689.jpg" alt="Preview" width="500" />
-<img src="https://i.ibb.co/XWjRZG4/1714971626509.jpg" alt="Preview Bot" width="500" />
+![Main Banner](images/main-banner.png)
+
+![Bot Banner](images/bot-banner.png)
 
 # **Jago Bot**
 
@@ -59,6 +60,16 @@ Just run the following command the bot will install and also run the bot in the 
 * Note: This script only integrates with Linux operations
 ```cmd
 $ bash install.sh
+```
+
+# Change Access Key
+Open the jagobot folder, open the config.json file then change the value of the "token" property
+
+```cmd
+{
+  "status": true,
+  "token": "xxxx-xxxxx-xxx-xxxx-xxx"
+}
 ```
 
 # Run in the background
