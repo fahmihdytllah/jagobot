@@ -4,6 +4,7 @@
       "name": "jagobot",
       "script": "./bot.js",
       "max_restarts": 3,
+      "restart_delay": 60000,
       "watch": false,
       "env": {
         "NODE_ENV": "development"
