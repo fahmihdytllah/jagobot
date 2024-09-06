@@ -1,6 +1,6 @@
 {
   "name": "jagobot",
-  "version": "1.6.6",
+  "version": "1.7.5",
   "description": "Organic visitors for adsense",
   "main": "bot.js",
   "scripts": {
@@ -18,5 +18,13 @@
     "readline": "latest",
     "socket.io-client": "latest",
     "useragent": "latest"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fahmihdytllah/jagobot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fahmihdytllah/jagobot/issues"
+  },
+  "homepage": "https://github.com/fahmihdytllah/jagobot#readme"
 }
