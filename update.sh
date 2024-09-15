@@ -1,6 +1,6 @@
 # Author    : https://www.instagram.com/fahmihdytllah
 # Portfolio : https://fahmihdytllah.me
-# Website   : https://bot.jagocode.my.id
+# Website   : https://bot.jagocode.id
 # Updated   : 17 jun 2024 23:28
 
 command_exists() {

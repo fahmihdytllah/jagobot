@@ -1,7 +1,7 @@
 /***
  * Author    : https://www.instagram.com/fahmihdytllah
  * Portfolio : https://fahmihdytllah.me
- * Website   : https://bot.jagocode.my.id
+ * Website   : https://bot.jagocode.id
  * Updated   : 10 Sep 2024 02:31
 ***/
 

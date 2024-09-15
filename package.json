@@ -1,6 +1,6 @@
 {
   "name": "jagobot",
-  "version": "1.7.5",
+  "version": "1.7.7",
   "description": "Organic visitors for adsense",
   "main": "bot.js",
   "scripts": {
