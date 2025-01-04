@@ -1,5 +1,6 @@
 node_modules/
-
+libs/handler_code.js
+json/dataUrl.json
 json/dataUrl.json
 json/dataProxy.json
 config.json

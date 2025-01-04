@@ -1,8 +1,8 @@
 /***
  * Author    : https://www.instagram.com/fahmihdytllah
- * Portfolio : https://fahmihdytllah.me
+ * Portfolio : https://fahmihdytllah.my.id
  * Website   : https://bot.jagocode.id
- * Updated   : 10 Sep 2024 02:31
+ * Updated   : 04 Jan 2025 16:10
 ***/
 
 /*** WHAT DO YOU WANT BRO? WANT TO RECODE THIS BOT? PLEASE BRO IF YOU CAN!! ***/

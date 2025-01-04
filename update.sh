@@ -1,5 +1,5 @@
 # Author    : https://www.instagram.com/fahmihdytllah
-# Portfolio : https://fahmihdytllah.me
+# Portfolio : https://fahmihdytllah.my.id
 # Website   : https://bot.jagocode.id
 # Updated   : 17 Sep 2024 20:27
 

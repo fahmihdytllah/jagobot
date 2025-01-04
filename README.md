@@ -77,7 +77,7 @@ If you want to run the bot in the background, you can follow the following comma
 
 ```cmd
 $ npm install -g pm2
-$ pm2 start bot.js
+$ pm2 start jagobot.json
 ```
 
 To check the activity log, use the pm2 logs command
